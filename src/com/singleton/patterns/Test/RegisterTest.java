@@ -6,7 +6,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * @Author: JiangChen
- * @Description:
+ * @Description:单例注册登记式测试
  * @Date 2018/4/11 19:15
  */
 public class RegisterTest {
