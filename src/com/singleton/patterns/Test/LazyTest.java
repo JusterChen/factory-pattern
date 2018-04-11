@@ -4,7 +4,7 @@ import com.singleton.patterns.umbrellaLazy.Lazy;
 
 /**
  * @Author: JiangChen
- * @Description: 懒汉模式测试，线程不安全
+ * @Description: 懒汉模式测试，线程不安全,访问的不是同一个对象
  * @Date 2018/4/11 13:56
  */
 public class LazyTest implements Runnable{
